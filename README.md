@@ -4,4 +4,4 @@
 
 ### Segue print
 
-![App Screenshot](https://imgur.com/I1aSNMW)
+[img]https://i.imgur.com/I1aSNMW.jpg[/img]
