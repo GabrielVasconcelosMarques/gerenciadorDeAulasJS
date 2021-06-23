@@ -4,4 +4,4 @@
 
 ### Segue print
 
-[img]https://i.imgur.com/I1aSNMW.jpg[/img]
+![Capturar.JPG](https://i.imgur.com/T1laquY.jpg)
