@@ -5,3 +5,5 @@
 ### Segue print
 
 ![Capturar.JPG](https://i.imgur.com/T1laquY.jpg)
+
+![Capturar2.JPG](https://i.imgur.com/JhuS2Kk.jpg)
